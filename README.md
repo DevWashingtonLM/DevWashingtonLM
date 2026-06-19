@@ -1,94 +1,43 @@
-# 👨‍💻 Washington Medeiros | Software Engineer
+# 👨‍💻 Washington Medeiros
 
-💻 Back-End Developer | Java | Spring Boot | APIs REST | SQL  
+💻 Back-End Developer | Java | Spring Boot  
 🎓 Engenharia de Software  
-🚀 Foco em construção de APIs escaláveis e boas práticas de desenvolvimento  
-📍 Brasil
+🚀 Foco em APIs REST, backend e boas práticas
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor back-end em formação, com foco principal em **Java e Spring Boot**.
-
-Atualmente estou evoluindo minhas habilidades em:
-- Desenvolvimento de APIs REST
-- Banco de dados (MySQL / SQL)
-- Testes automatizados com Selenium + JUnit
-- Versionamento com Git e GitHub
-- Estrutura de projetos com boas práticas (Controller, Service, Repository)
-
-Tenho interesse em atuar como **desenvolvedor back-end júnior** e futuramente seguir carreira em tecnologia aplicada a sistemas robustos e escaláveis.
+Desenvolvedor back-end em evolução, focado em Java e Spring Boot, construindo APIs e estudando engenharia de software.
 
 ---
 
-## ⚙️ Stack atual
+## ⚙️ Stack
 
-### Back-end
 - Java ☕
 - Spring Boot 🌱
-- Spring Data JPA
+- MySQL / SQL
 - REST APIs
-- Maven
-
-### Testes
-- JUnit 5
-- Selenium (em aprendizado)
-
-### Banco de dados
-- MySQL
-- SQL
-
-### Outras tecnologias
-- Git / GitHub
-- Python (básico)
-- HTML (básico)
-- JavaScript (iniciante)
+- Git & GitHub
+- JUnit / Selenium (em aprendizado)
 
 ---
 
-## 📚 Em aprendizado contínuo
+## 📊 Linguagens mais usadas
 
-- Spring Security (autenticação e autorização)
-- Docker
-- Microservices
-- Kafka
-- CI/CD
-- Boas práticas (Clean Code, SOLID)
-- Estruturas de dados e algoritmos
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWashingtonLM&layout=compact&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWashingtonLM&show_icons=true&theme=default)
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Objetivo
 
-- Conseguir uma vaga como **Desenvolvedor Back-End Júnior**
-- Evoluir para arquitetura de sistemas
-- Construir APIs profissionais com Spring Boot
-- Atuar em projetos reais e open source
-- Crescer na área de engenharia de software
-
----
-
-## 🚀 Projetos
-
-Aqui você pode adicionar seus projetos:
-
-- 📦 API de Cardápio (Spring Boot + MySQL)
-- 🧪 Automação de testes com Selenium
-- 🔐 Sistema de autenticação (em desenvolvimento)
-- 📊 Projetos de estudo com APIs REST
+Conquistar vaga como Desenvolvedor Back-End Júnior e evoluir para arquitetura de sistemas.
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: www.linkedin.com/in/washington-medeiros-4b48512b8  
-- 📧 Email: washingtonshild@gmail.com  
-
----
-
-## 🧩 Filosofia
-
-> "Código limpo hoje evita bugs amanhã."
-
-Sempre buscando evoluir um commit por vez. 🚀
+- LinkedIn: www.linkedin.com/in/washington-medeiros-4b48512b8  
+- Email: washingtonshild@gmail.com
