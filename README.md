@@ -7,8 +7,8 @@
 ---
 ## 📊 Linguagens mais usadas
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWashingtonLM&layout=pie&theme=tokyonight)
-<p/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWashingtonLM&layout=donut&theme=tokyonight" />
+</p>
 
 ## 📫 Contato
 
