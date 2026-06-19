@@ -7,7 +7,7 @@
 ---
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWashingtonLM&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWashingtonLM&layout=donut&theme=tokyonight)
 
 
 ## 📫 Contato
